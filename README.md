@@ -11,21 +11,21 @@
 ### 📊 GitHub Analytics & Showcase
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=vedang-k&theme=dracula&column=7&margin-w=15&margin-h=15&no-bg=true" alt="Vedang's Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=irukagae&theme=dracula&column=7&margin-w=15&margin-h=15&no-bg=true" alt="Vedang's Trophies" />
 </p>
 
 <table align="center" border="0" cellpadding="10" cellspacing="0">
   <tr>
     <td valign="top" width="50%">
-      <img src="https://github-readme-stats.vercel.app/api?username=vedang-k&show_icons=true&theme=dracula&hide_border=true&count_private=true" width="100%" alt="Vedang's GitHub Stats" />
+      <img src="https://github-readme-stats.vercel.app/api?username=irukagae&show_icons=true&theme=dracula&hide_border=true&count_private=true" width="100%" alt="Vedang's GitHub Stats" />
     </td>
     <td valign="top" width="50%">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vedang-k&layout=compact&theme=dracula&hide_border=true" width="100%" alt="Vedang's Top Languages" />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=irukagae&layout=compact&theme=dracula&hide_border=true" width="100%" alt="Vedang's Top Languages" />
     </td>
   </tr>
   <tr>
     <td colspan="2" align="center">
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=vedang-k&theme=dracula&hide_border=true" width="100%" alt="Vedang's GitHub Streak" />
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=irukagae&theme=dracula&hide_border=true" width="100%" alt="Vedang's GitHub Streak" />
     </td>
   </tr>
 </table>
