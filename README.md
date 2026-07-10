@@ -10,8 +10,6 @@
 
 ### 📊 GitHub Analytics & Showcase
 
-### 📊 GitHub Analytics & Showcase
-
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=irukagae&theme=dracula&column=7&no-bg=true" alt="Vedang's Trophies" />
 </p>
