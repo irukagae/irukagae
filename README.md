@@ -1,60 +1,98 @@
 <h1 align="center">Hi 👋, I'm Vedang K</h1>
 <h3 align="center">From datasets to decisions — fueled by Python & caffeine ☕</h3>
 
+<p align="center">
+  <img src="https://img.shields.io/badge/B.Tech-AI%20%26%20Data%20Science-blue?style=for-the-badge&logo=cpu-core&logoColor=white" alt="Major"/>
+  <img src="https://img.shields.io/badge/Environment-Linux%20%2F%20Ubuntu-orange?style=for-the-badge&logo=linux&logoColor=white" alt="OS"/>
+</p>
+
+---
+
+### 📊 GitHub Analytics & Showcase
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=vedang-k&theme=dracula&column=7&margin-w=15&margin-h=15&no-bg=true" alt="Vedang's Trophies" />
+</p>
+
+<table align="center" border="0" cellpadding="10" cellspacing="0">
+  <tr>
+    <td valign="top" width="50%">
+      <img src="https://github-readme-stats.vercel.app/api?username=vedang-k&show_icons=true&theme=dracula&hide_border=true&count_private=true" width="100%" alt="Vedang's GitHub Stats" />
+    </td>
+    <td valign="top" width="50%">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vedang-k&layout=compact&theme=dracula&hide_border=true" width="100%" alt="Vedang's Top Languages" />
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center">
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=vedang-k&theme=dracula&hide_border=true" width="100%" alt="Vedang's GitHub Streak" />
+    </td>
+  </tr>
+</table>
+
 ---
 
 ### 👨‍💻 About Me  
-- 🎓 B.Tech AI & Data Science student  
-- 💡 Exploring **Machine Learning, Data Analysis**, and **Automation**  
-- 🚀 Currently working on building intelligent systems that actually *learn*  
-- 📊 Turning raw data into real insights  
+- 💡 Exploring **Machine Learning, Data Analysis, Deep Learning**, and **Intelligent Automation**.  
+- 🤖 Deeply interested in simulation systems, physical computing, and robotics software frameworks.  
+- 🚀 Actively working on training predictive pipelines and building systems that actually *learn*.  
+- 📊 Passionate about turning unstructured, raw data into high-impact, actionable insights.  
 
 ---
 
-### ⚙️ Tech Stack  
-**Languages:**  
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40"/> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40"/> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="html5" width="40"/> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="css3" width="40"/> 
+### ⚙️ Tech Stack & Ecosystem
 
-**Libraries & Tools:**  
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="pandas" width="40"/> 
-<img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40"/> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" alt="numpy" width="40"/> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/matplotlib/matplotlib-original.svg" alt="matplotlib" width="40"/> 
-<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40"/> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40"/> 
+<p align="left">
+  <!-- Languages -->
+  <strong>Core Languages:</strong><br/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/>
+  <img src="https://img.shields.io/badge/C++----00599C?style=flat-square&logo=c%2B%2B&logoColor=white" alt="C++"/>
+  <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black" alt="C"/>
+  <img src="https://img.shields.io/badge/SQL-CC292B?style=flat-square&logo=mysql&logoColor=white" alt="SQL"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3"/>
+</p>
 
----
+<p align="left">
+  <!-- AI, Data Science & ML -->
+  <strong>Data Science & AI Ecosystem:</strong><br/>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" alt="Pandas"/>
+  <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" alt="NumPy"/>
+  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white" alt="Scikit-Learn"/>
+  <img src="https://img.shields.io/badge/Matplotlib-ffffff?style=flat-square&logo=matplotlib&logoColor=black" alt="Matplotlib"/>
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=power-bi&logoColor=black" alt="Power BI"/>
+</p>
 
-### 📂 Projects & Experiments  
-- 🧠 **[Face Recognition Attendance System](https://github.com/vedang-k/Face-Recognition-Attendance-System)** — AI project using OpenCV for automating attendance.  
-- 🌦️ **[Weather App](https://github.com/vedang-k/Weather-App)** — Python app fetching & displaying real-time weather data.  
-
-> *(More experiments coming soon — caffeine supply pending ☕)*  
+<p align="left">
+  <!-- Robotics & Tools -->
+  <strong>Frameworks, Dev Tools & OS:</strong><br/>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" alt="Linux"/>
+  <img src="https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white" alt="Ubuntu"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub"/>
+</p>
 
 ---
 
 ### ⚡ Fun Fact  
-> I commit more to GitHub than to my sleep schedule.  
+> I commit more to GitHub than to my sleep schedule. 🛠️
 
 ---
 
-## 🤝 Connect With Me
+### 🤝 Connect With Me
 
 <p align="left">
   <a href="https://linkedin.com/in/vedang-kulkarni-a09543243" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40" height="40" />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   &nbsp;&nbsp;
   <a href="mailto:vedangkulk26@gmail.com" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" alt="Gmail" width="40" height="40" />
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
 </p>
 
-
 ---
 
-![](https://komarev.com/ghpvc/?username=vedang-k&style=flat-square&color=blue)
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=vedang-k&style=flat-square&color=blue" alt="Profile Views" />
+</p>
