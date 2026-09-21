@@ -2,7 +2,6 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:1a0033,35:7a1fa2,65:ff2a6d,100:ff9e00&text=OUTRUN%20THE%20DATA&fontColor=ffffff&fontSize=54&fontAlignY=36&stroke=1a0033&strokeWidth=2&desc=AI%20%26%20Data%20Science%20%E2%80%A2%20Machine%20Learning%20Developer&descAlignY=58&descSize=20&descColor=ffd319&animation=fadeIn" width="100%" alt="header"/>
 
 <a href="https://git.io/typing-svg">
 <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=20&duration=3200&pause=900&color=05D9E8&center=true&vCenter=true&width=900&height=45&lines=BUILDING+INTELLIGENT+SYSTEMS+THAT+TURN+DATA+INTO+DECISIONS;B.TECH+%E2%80%A2+ARTIFICIAL+INTELLIGENCE+%26+DATA+SCIENCE;PYTHON+%7C+C%2B%2B+%7C+SQL+%7C+LINUX;ALWAYS+LEARNING.+ALWAYS+BUILDING." alt="Typing SVG" />
