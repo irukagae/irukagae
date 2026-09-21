@@ -2,6 +2,7 @@
 
 <div align="center">
 
+$\scriptstyle \color{#a8a3c7}{\textit{Caffeine: 100\%. Decision quality: TBD.}}$
 
 <a href="https://git.io/typing-svg">
 <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=20&duration=3200&pause=900&color=05D9E8&center=true&vCenter=true&width=900&height=45&lines=BUILDING+INTELLIGENT+SYSTEMS+THAT+TURN+DATA+INTO+DECISIONS;B.TECH+%E2%80%A2+ARTIFICIAL+INTELLIGENCE+%26+DATA+SCIENCE;PYTHON+%7C+C%2B%2B+%7C+SQL+%7C+LINUX;ALWAYS+LEARNING.+ALWAYS+BUILDING." alt="Typing SVG" />
@@ -25,67 +26,52 @@
 
 <img src="https://capsule-render.vercel.app/api?type=rect&height=4&color=5b21b6" width="100%" alt="divider"/>
 
-## 🌴 &nbsp;ABOUT ME
+## 🎮 &nbsp;ABOUT ME
 
-<div align="center">
+```
+⟨ LOADING PLAYER PROFILE... ⟩              ■ PLAYER ONE READY
 
-### ▶ &nbsp;*"Turning raw data into meaningful decisions, one project at a time."*
+▸ NAME       Vedang Kulkarni // Irukagae
+▸ CLASS      AI & Data Science Student          lvl ★ 3
+▸ GUILD      K J Somaiya College of Engineering
+▸ QUEST      Deep Learning → RAG models → real-world projects
+▸ ENDGAME    Data Scientist
 
-</div>
+┌─ SKILL MATRIX ─────────────────────────────────────────────┐
+│                                                            │
+│  Python            ████████████████░░░░  FOUNDATION        │
+│  C and C++         ██████████████░░░░░░  FOUNDATION        │
+│  SQL               █████████████░░░░░░░  FOUNDATION        │
+│  Machine Learning  ███████████░░░░░░░░░  BUILDING          │
+│  DSA               ████████░░░░░░░░░░░░  LEARNING          │
+│  Deep Learning     ██████░░░░░░░░░░░░░░  LEARNING          │
+│  RAG Models        ██░░░░░░░░░░░░░░░░░░  NEXT              │
+│                                                            │
+└────────────────────────────────────────────────────────────┘
 
-I'm a **B.Tech student in Artificial Intelligence & Data Science** at **K J Somaiya College of Engineering**, passionate about designing intelligent systems that solve practical problems. I love taking an idea all the way from **data collection and experimentation** to **model development and real-world applications**.
-
-| | |
-|:--|:--|
-| 🎓 **Degree** | B.Tech, Artificial Intelligence & Data Science |
-| 🧠 **Focus** | Machine Learning · Data Science · Predictive Modeling |
-| ⚙️ **Interests** | Intelligent Automation · Software Engineering |
-| 🔨 **Building** | ML systems from scratch |
-| 🔭 **Exploring** | Deep Learning |
-| 🐧 **Environment** | Linux |
-| ⚡ **Mindset** | Always learning through projects |
+┌─ FOCUS AREAS ──────────────────────────────────────────────┐
+│  Machine Learning · Data Science · Predictive Modeling     │
+└────────────────────────────────────────────────────────────┘
+┌─ TOOLKIT ──────────────────────────────────────────────────┐
+│  NumPy · Pandas · Scikit-Learn · Matplotlib                │
+│  OpenCV · Power BI · Git · Linux                           │
+└────────────────────────────────────────────────────────────┘
+```
 
 <br/>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&height=4&color=5b21b6" width="100%" alt="divider"/>
 
-## 🌇 &nbsp;THE JOURNEY
+## ⚡ &nbsp;WHAT I'M UP TO
 
-| ⏱️ WHEN | 🛣️ MILESTONE |
-|:--|:--|
-| **2024** | 🚀 Started B.Tech in AI & Data Science at K J Somaiya College of Engineering |
-| **NOW** · 3rd year | 📍 Learning Deep Learning & Advanced ML, sharpening DSA, building ML projects from scratch |
-| **2028** · expected | 🎓 Graduation |
-
-<br/>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&height=4&color=5b21b6" width="100%" alt="divider"/>
-
-## 🎮 &nbsp;NEXT LEVEL
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### 🔥 IN PROGRESS
-- 🧠 Deep Learning
-- 🕸️ Neural Networks
-- 📈 Advanced Machine Learning
-- ⚡ Data Structures & Algorithms
-
-</td>
-<td width="50%" valign="top">
-
-### 🎯 UP NEXT
-- 🔎 RAG (Retrieval-Augmented Generation) models
-- 🌍 Real-world projects
-- 🏗️ System Design
-- 🤖 Intelligent Automation
-- 🌐 Open Source Development
-
-</td>
-</tr>
-</table>
+|    |    |
+|:--:|:--|
+| 🎓 | Third year of B.Tech in AI & Data Science at K J Somaiya College of Engineering |
+| 🧠 | Learning deep learning and neural networks |
+| ⚡ | Practising data structures and algorithms |
+| 🔎 | Getting into RAG models next |
+| 🌍 | Working towards real-world projects |
+| 🤝 | Open to ML project collaborations and open source |
 
 <br/>
 
@@ -126,8 +112,8 @@ I'm a **B.Tech student in Artificial Intelligence & Data Science** at **K J Soma
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=irukagae&show_icons=true&hide_border=false&border_color=b967ff&bg_color=1a0033&title_color=ff2a6d&icon_color=05d9e8&text_color=f5e6ff&count_private=true" alt="GitHub stats"/>
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=irukagae&layout=compact&hide_border=false&border_color=b967ff&bg_color=1a0033&title_color=ff2a6d&text_color=f5e6ff" alt="Top languages"/>
+<img height="200" src="https://raw.githubusercontent.com/irukagae/irukagae/main/profile-summary-card-output/radical/3-stats.svg" alt="GitHub stats"/>
+<img height="200" src="https://raw.githubusercontent.com/irukagae/irukagae/main/profile-summary-card-output/radical/2-most-commit-language.svg" alt="Top languages"/>
 
 <br/>
 
@@ -139,17 +125,6 @@ I'm a **B.Tech student in Artificial Intelligence & Data Science** at **K J Soma
 
 <img src="https://capsule-render.vercel.app/api?type=rect&height=4&color=5b21b6" width="100%" alt="divider"/>
 
-## 📈 &nbsp;GITHUB CONTRIBUTION GRAPH
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=irukagae&bg_color=1a0033&color=ff2a6d&line=ff9e00&point=05d9e8&area=true&area_color=ff2a6d&hide_border=true&title_color=ffd319" alt="Contribution graph"/>
-
-</div>
-
-<br/>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&height=4&color=5b21b6" width="100%" alt="divider"/>
 
 ## 🐍 &nbsp;SNAKE ARCADE
 
